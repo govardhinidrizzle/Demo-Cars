@@ -1,0 +1,48 @@
+<html>
+  <title>DEMO FILE</title>
+  
+  <head>
+    <h3 style="color: rgb(247, 13, 13)"; align = "center"; ><b>CARS</b></h3>
+  </head>
+
+  <body>
+    <h1>Car's Details</h1>
+
+   <button type="button" onclick="alert('HELLO CARS')">Click Me!</button>
+ 
+    <h4 style="color: rgb(7, 185, 37)"> <b>CAR TYPES</b></h4>
+    Maruti Suzuki Baleno,
+    Ford Fiesta &
+     Hyundai Verna
+    <p><li>
+      Maruti Suzuki Baleno<br />
+  </p></li>
+    <img
+      src="Maruthi Suzuki Baleno.jpg"
+      style="width: 200px; height: 200px"
+      alt="Italian Trulli"
+    />
+<button type="button" onclick="alert('Maruthi Suzuki Baleno price in India starts from Rs. 6,61,000 Lakhs...')">Price Details!</button>'
+</p></li>
+
+<p><li>Ford Fiesta<br/>
+</p></li>
+
+    <img
+      src="Ford Fiesta.jpg"
+      style="width: 200px; height: 200px"
+      alt="Italian Trulli"
+    />
+<button type="button" onclick="alert('Ford Fiesta price in India starts from ₹ 8.63 Lakhs...')">Price Details!</button>
+    
+<p><li>Hyundai Verna<br/>
+</p></li>
+    <img
+      src="Hyundai Verna.jpg"
+      style="width: 200px; height: 200px"
+      alt="Italian Trulli"
+/>
+<button type="button" onclick="alert('Hyundai Verna price in India starts from ₹ 11.00 Lakhs...')">Price Details!</button>
+
+</body>
+</html>
